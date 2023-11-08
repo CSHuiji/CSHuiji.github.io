@@ -12,18 +12,18 @@ I am currently a Ph.D. student in the [Information Science Department at the Uni
 
 My research focuses on AI/ML in healthcare. My overarching research goal is to developing generalizable ML methods, which ensures AI/ML in healthcare are trustworthy and equitable. Current research areas include **Artificial Intelligence of Things (AIoT)**, **Transfer Learning** and **Large Language Model Deploy**.
 
----
+
 News
----
+------
 2023/08: Start my Ph.D. journey! 👊
 
----
+
 Professional Service
----
+------
 **Conference Reviewer**
 
----
+
 Acknowledgement
----
+------
 This website was built with [jekyll](https://jekyllrb.com/) based on a template by [academicpages](https://github.com/academicpages/academicpages.github.io/blob/master/_pages/about.md).
 
