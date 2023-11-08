@@ -25,5 +25,5 @@ Professional Service
 
 Acknowledgement
 ------
-This website was built with [jekyll](https://jekyllrb.com/) based on a template by [academicpages](https://github.com/academicpages/academicpages.github.io/blob/master/_pages/about.md).
+This website was built with [jekyll](https://jekyllrb.com/) based on a template by [Staeiou](https://github.com/academicpages/academicpages.github.io/blob/master/_pages/about.md).
 
