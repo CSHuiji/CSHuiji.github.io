@@ -16,6 +16,7 @@ My research focuses on AI/ML in healthcare. My overarching research goal is to d
 News
 ------
 2024/09: Paper accepted by SenSys'24!
+
 2023/08: Start my Ph.D. journey! 👊
 
 
@@ -23,9 +24,13 @@ Professional Service
 ------
 **Conference Reviewer**
 AISTATS 2025
+
 ICASSP 2025
+
 ICLR 2025
+
 NeurIPS 2024 Workshop on Foundation Models for Science 2024
+
 NeruIPS 2024
 
 Acknowledgement
