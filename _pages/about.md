@@ -26,12 +26,12 @@ Professional Service
 ------
 **Conference Reviewer**
 
-        <li>AISTATS 2025</li>
-        <li>ICASSP 2025</li>
-        <li>ICLR 2025</li>
-        <li>NeurIPS 2024 Workshop on Foundation Models for Science 2024</li>
-        <li>NeurIPS 2024</li>
-
+- AISTATS 2025
+- ICASSP 2025
+- ICLR 2025
+- NeurIPS 2024 Workshop on Foundation Models for Science 2024
+- NeurIPS 2024
+  
 Acknowledgement
 ------
 This website was built with [jekyll](https://jekyllrb.com/) based on a template by [Staeiou](https://github.com/academicpages/academicpages.github.io/blob/master/_pages/about.md).
